@@ -1,0 +1,584 @@
+1550912619050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KRy8Jy94RZ3N"
+1550912619512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550912619513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:8535): Gtk-WARNING **: 10:03:39.827: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8535): Gtk-WARNING **: 10:03:39.827: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550912621271	Marionette	INFO	Listening on port 46621
+1550912621387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550912628946	Marionette	INFO	Stopped listening on port 46621
+[Parent 8535, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550917672178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6crArOXKTAMf"
+1550917672640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550917672640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:9691): Gtk-WARNING **: 11:27:52.955: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9691): Gtk-WARNING **: 11:27:52.955: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550917674307	Marionette	INFO	Listening on port 40057
+1550917674407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550917682990	Marionette	INFO	Stopped listening on port 40057
+[Parent 9691, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550917787670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KMb2OJ3WZJnj"
+1550917788132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550917788133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10018): Gtk-WARNING **: 11:29:48.454: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10018): Gtk-WARNING **: 11:29:48.454: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550917789755	Marionette	INFO	Listening on port 38073
+1550917789789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550917789884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x9OQ7mMeUyVn"
+1550917790414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550917790415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10212): Gtk-WARNING **: 11:29:50.723: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10212): Gtk-WARNING **: 11:29:50.723: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550917792357	Marionette	INFO	Listening on port 34813
+1550917792410	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10212, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 10212, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550917809878	Marionette	INFO	Stopped listening on port 34813
+[Parent 10018, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 10018, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550917812150	Marionette	INFO	Stopped listening on port 38073
+1550917887462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IQ8fX21Y6v0O"
+1550917887924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550917887925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10498): Gtk-WARNING **: 11:31:28.225: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10498): Gtk-WARNING **: 11:31:28.226: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550917889611	Marionette	INFO	Listening on port 42981
+1550917889678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550917889830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fPihPxqxa65x"
+1550917890392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550917890392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10713): Gtk-WARNING **: 11:31:30.727: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10713): Gtk-WARNING **: 11:31:30.727: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550917892192	Marionette	INFO	Listening on port 38629
+1550917892304	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10713, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 10713, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550917895789	Marionette	INFO	Stopped listening on port 38629
+[Parent 10498, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550917897073	Marionette	INFO	Stopped listening on port 42981
+1550918937800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5xJWXNYoYvh8"
+1550918938268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550918938269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:13662): Gtk-WARNING **: 11:48:58.579: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13662): Gtk-WARNING **: 11:48:58.579: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550918939876	Marionette	INFO	Listening on port 38885
+1550918939923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550918941004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dziO07Uajloc"
+1550918941491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550918941492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:13920): Gtk-WARNING **: 11:49:01.828: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13920): Gtk-WARNING **: 11:49:01.828: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550918943137	Marionette	INFO	Listening on port 39831
+1550918943223	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13920, Gecko_IOThread] WARNING: pipe error (79): Połączenie zerwane przez drugą stronę: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 13920, Gecko_IOThread] WARNING: pipe error (93): Połączenie zerwane przez drugą stronę: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550918958585	Marionette	INFO	Stopped listening on port 39831
+[Parent 13662, Gecko_IOThread] WARNING: pipe error (93): Połączenie zerwane przez drugą stronę: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 13662, Gecko_IOThread] WARNING: pipe error (79): Połączenie zerwane przez drugą stronę: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550918960398	Marionette	INFO	Stopped listening on port 38885
+1550919070653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j6276fuqA6yP"
+1550919071117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550919071117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:14263): Gtk-WARNING **: 11:51:11.427: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14263): Gtk-WARNING **: 11:51:11.427: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550919072781	Marionette	INFO	Listening on port 33293
+1550919072875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550919073235	Marionette	INFO	Stopped listening on port 33293
+[Parent 14263, Gecko_IOThread] WARNING: pipe error (79): Połączenie zerwane przez drugą stronę: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550919073773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1BNwD14wqdDT"
+1550919074250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550919074251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:14493): Gtk-WARNING **: 11:51:14.588: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14493): Gtk-WARNING **: 11:51:14.589: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550919075806	Marionette	INFO	Listening on port 43265
+1550919075907	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14493, Gecko_IOThread] WARNING: pipe error (79): Połączenie zerwane przez drugą stronę: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 14493, Gecko_IOThread] WARNING: pipe error (107): Połączenie zerwane przez drugą stronę: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1550919093664	Marionette	INFO	Stopped listening on port 43265
+1550919220519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m7u2Nck7pIqY"
+1550919220989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550919220989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:14802): Gtk-WARNING **: 11:53:41.317: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14802): Gtk-WARNING **: 11:53:41.317: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1550919222688	Marionette	INFO	Listening on port 35005
+1550919222741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550919231096	Marionette	INFO	Stopped listening on port 35005
+[Parent 14802, Gecko_IOThread] WARNING: pipe error (79): Połączenie zerwane przez drugą stronę: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 14802, Gecko_IOThread] WARNING: pipe error (98): Połączenie zerwane przez drugą stronę: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1568182130920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiRm11t"
+
+(firefox:3457): Gtk-WARNING **: 08:08:52.261: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3457): Gtk-WARNING **: 08:08:52.261: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568182135671	Marionette	INFO	Listening on port 45999
+1568182135698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568182135948	Marionette	DEBUG	[2147483649] Frame script loaded
+1568182135958	Marionette	DEBUG	[2147483649] Frame script registered
+1568182137229	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568182138777	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568182140186	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://wizzair.com/pl-pl#/
+1568182152463	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://wizzair.com/pl-pl#/
+1568182153305	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568182173356	Marionette	INFO	Stopped listening on port 45999
+1568364791514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewzR4x3"
+
+(firefox:28384): Gtk-WARNING **: 10:53:13.080: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28384): Gtk-WARNING **: 10:53:13.080: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568364795584	Marionette	INFO	Listening on port 34287
+1568364795661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568364795809	Marionette	DEBUG	[2147483649] Frame script loaded
+1568364795813	Marionette	DEBUG	[2147483649] Frame script registered
+1568364798363	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568364798863	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568364799728	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://wizzair.com/pl-pl#/
+1568364807954	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://wizzair.com/pl-pl#/
+1568364808628	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568364813860	Marionette	INFO	Stopped listening on port 34287
+[Parent 28384, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1568365115921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehCSCvr"
+
+(firefox:28816): Gtk-WARNING **: 10:58:36.806: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28816): Gtk-WARNING **: 10:58:36.806: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568365118767	Marionette	INFO	Listening on port 34541
+1568365118911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568365119090	Marionette	DEBUG	[2147483649] Frame script loaded
+1568365119113	Marionette	DEBUG	[2147483649] Frame script registered
+1568365121820	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568365122224	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568365123414	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568365123425	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568365133014	Marionette	INFO	Stopped listening on port 34541
+1568365790777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP062Tr"
+
+(firefox:29591): Gtk-WARNING **: 11:09:52.096: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29591): Gtk-WARNING **: 11:09:52.098: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568365795022	Marionette	INFO	Listening on port 35991
+1568365795139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568365795291	Marionette	DEBUG	[2147483649] Frame script loaded
+1568365795293	Marionette	DEBUG	[2147483649] Frame script registered
+1568365798250	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568365798510	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568365801812	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568365801841	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568365802886	Marionette	INFO	Stopped listening on port 35991
+
+(/usr/lib/firefox/firefox:29639): dconf-WARNING **: 11:10:03.009: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568366003161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3xQWEu"
+
+(firefox:29802): Gtk-WARNING **: 11:13:24.247: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29802): Gtk-WARNING **: 11:13:24.250: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568366007012	Marionette	INFO	Listening on port 34335
+1568366007119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568366007302	Marionette	DEBUG	[2147483649] Frame script loaded
+1568366007310	Marionette	DEBUG	[2147483649] Frame script registered
+1568366009419	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568366009689	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568366011603	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568366011614	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568366012436	Marionette	INFO	Stopped listening on port 34335
+
+(/usr/lib/firefox/firefox:29888): dconf-WARNING **: 11:13:32.544: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568366061631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemMHAIK"
+
+(firefox:30005): Gtk-WARNING **: 11:14:23.094: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30005): Gtk-WARNING **: 11:14:23.096: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568366065369	Marionette	INFO	Listening on port 45581
+1568366065509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568366065653	Marionette	DEBUG	[2147483649] Frame script loaded
+1568366065696	Marionette	DEBUG	[2147483649] Frame script registered
+1568366068052	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568366068282	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568366070357	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568366070373	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568366071181	Marionette	INFO	Stopped listening on port 45581
+
+(/usr/lib/firefox/firefox:30066): dconf-WARNING **: 11:14:31.319: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 30005, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1568366117597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileihXvUm"
+
+(firefox:30188): Gtk-WARNING **: 11:15:18.843: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30188): Gtk-WARNING **: 11:15:18.845: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568366121747	Marionette	INFO	Listening on port 39643
+1568366121873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568366122057	Marionette	DEBUG	[2147483649] Frame script loaded
+1568366122061	Marionette	DEBUG	[2147483649] Frame script registered
+1568366124365	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568366124594	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568366125964	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568366125983	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568366127098	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568366137129	Marionette	INFO	Stopped listening on port 39643
+1568366679458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8EG45l"
+
+(firefox:30440): Gtk-WARNING **: 11:24:40.685: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30440): Gtk-WARNING **: 11:24:40.687: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568366683687	Marionette	INFO	Listening on port 41529
+1568366683855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568366684007	Marionette	DEBUG	[2147483649] Frame script loaded
+1568366684012	Marionette	DEBUG	[2147483649] Frame script registered
+1568366686456	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568366686772	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568366688799	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568366688810	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+
+(/usr/lib/firefox/firefox:30519): dconf-WARNING **: 11:24:49.901: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568366690241	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568366690680	Marionette	INFO	Stopped listening on port 41529
+1568366730379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoPdLPJ"
+
+(firefox:30630): Gtk-WARNING **: 11:25:31.554: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30630): Gtk-WARNING **: 11:25:31.555: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568366734132	Marionette	INFO	Listening on port 34753
+1568366734231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568366734362	Marionette	DEBUG	[2147483649] Frame script loaded
+1568366734368	Marionette	DEBUG	[2147483649] Frame script registered
+1568366736875	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568366737120	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568366739262	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568366739273	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568366740641	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568366741294	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568366741437	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568366742508	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568366751001	Marionette	INFO	Stopped listening on port 34753
+1568368572138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWNgyKD"
+
+(firefox:30950): Gtk-WARNING **: 11:56:13.229: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30950): Gtk-WARNING **: 11:56:13.229: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568368575584	Marionette	INFO	Listening on port 46479
+1568368575718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568368575903	Marionette	DEBUG	[2147483649] Frame script loaded
+1568368575909	Marionette	DEBUG	[2147483649] Frame script registered
+1568368578065	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568368578400	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568368581326	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568368581335	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568368582639	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568368583433	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568368583574	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568368584481	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568368585746	Marionette	INFO	Stopped listening on port 46479
+1568368626968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebYZA6o"
+
+(firefox:31117): Gtk-WARNING **: 11:57:08.044: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31117): Gtk-WARNING **: 11:57:08.046: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568368630407	Marionette	INFO	Listening on port 43425
+1568368630503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568368630639	Marionette	DEBUG	[2147483649] Frame script loaded
+1568368630644	Marionette	DEBUG	[2147483649] Frame script registered
+1568368632989	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568368633244	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568368634188	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568368634197	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+
+(/usr/lib/firefox/firefox:31167): dconf-WARNING **: 11:57:15.277: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568368635495	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568368636078	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568368636180	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568368636413	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568368648202	Marionette	INFO	Stopped listening on port 43425
+1568387203452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyyyyRS"
+
+(firefox:31571): Gtk-WARNING **: 17:06:45.331: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31571): Gtk-WARNING **: 17:06:45.334: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568387208955	Marionette	INFO	Listening on port 43127
+1568387209010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568387209182	Marionette	DEBUG	[2147483649] Frame script loaded
+1568387209187	Marionette	DEBUG	[2147483649] Frame script registered
+1568387212092	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568387212407	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568387215677	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568387215697	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+
+(/usr/lib/firefox/firefox:31654): dconf-WARNING **: 17:06:57.023: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568387217230	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568387217975	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568387218123	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568387219134	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568387230799	Marionette	INFO	Stopped listening on port 43127
+1568399154782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBw5orz"
+
+(firefox:32028): Gtk-WARNING **: 20:25:56.500: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32028): Gtk-WARNING **: 20:25:56.500: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568399159958	Marionette	INFO	Listening on port 39967
+1568399160112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568399160360	Marionette	DEBUG	[2147483649] Frame script loaded
+1568399160365	Marionette	DEBUG	[2147483649] Frame script registered
+1568399163368	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568399203434	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568399203436	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568399203600	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//lsi-szkol.slaskie.pl/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20lsi-szkol.slaskie.pl.
+1568399230265	Marionette	INFO	Stopped listening on port 39967
+1568399247942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4YVpOz"
+
+(firefox:32187): Gtk-WARNING **: 20:27:29.572: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32187): Gtk-WARNING **: 20:27:29.575: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568399252797	Marionette	INFO	Listening on port 34133
+1568399252889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568399253114	Marionette	DEBUG	[2147483649] Frame script loaded
+1568399253147	Marionette	DEBUG	[2147483649] Frame script registered
+1568399256698	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568399296793	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568399296803	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568399296927	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//lsi-szkol.slaskie.pl/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20lsi-szkol.slaskie.pl.
+1568399383433	Marionette	INFO	Stopped listening on port 34133
+1568399679438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerSApIq"
+
+(firefox:2701): Gtk-WARNING **: 20:34:41.882: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2701): Gtk-WARNING **: 20:34:41.883: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568399685032	Marionette	INFO	Listening on port 46727
+1568399685123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568399685237	Marionette	DEBUG	[2147483649] Frame script loaded
+1568399685241	Marionette	DEBUG	[2147483649] Frame script registered
+1568399686219	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568399686541	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568399689921	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568399689935	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568399691452	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568399692160	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568399692313	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568399692623	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568399694573	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568399697080	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568399697786	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568399698030	Marionette	INFO	Stopped listening on port 46727
+1568400050220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewtQaCM"
+
+(firefox:3257): Gtk-WARNING **: 20:40:51.750: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3257): Gtk-WARNING **: 20:40:51.751: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568400054979	Marionette	INFO	Listening on port 40373
+1568400055087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568400055287	Marionette	DEBUG	[2147483649] Frame script loaded
+1568400055294	Marionette	DEBUG	[2147483649] Frame script registered
+1568400058425	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568400058665	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568400062006	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568400062025	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+
+(/usr/lib/firefox/firefox:3345): dconf-WARNING **: 20:41:03.154: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568400063386	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568400064112	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568400064257	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568400065267	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568400066346	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568400068609	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568400069038	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568400070259	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568400070308	Marionette	INFO	Stopped listening on port 40373
+[Parent 3257, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1568401176730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO6lnxK"
+
+(firefox:3654): Gtk-WARNING **: 20:59:38.171: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3654): Gtk-WARNING **: 20:59:38.196: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568401181535	Marionette	INFO	Listening on port 33315
+1568401181615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568401181842	Marionette	DEBUG	[2147483649] Frame script loaded
+1568401181853	Marionette	DEBUG	[2147483649] Frame script registered
+1568401184686	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568401184986	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568401188146	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568401188165	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+
+(/usr/lib/firefox/firefox:3750): dconf-WARNING **: 20:59:49.427: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568401189649	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568401190333	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401190537	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568401191653	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401192750	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401194945	Marionette	INFO	Stopped listening on port 33315
+1568401301728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4FZs9o"
+
+(firefox:3874): Gtk-WARNING **: 21:01:43.539: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3874): Gtk-WARNING **: 21:01:43.539: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568401306560	Marionette	INFO	Listening on port 39187
+1568401306578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568401306733	Marionette	DEBUG	[2147483649] Frame script loaded
+1568401306738	Marionette	DEBUG	[2147483649] Frame script registered
+1568401309975	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568401310245	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568401312552	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568401312584	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+
+(/usr/lib/firefox/firefox:3925): dconf-WARNING **: 21:01:53.759: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568401314066	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568401314753	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401314906	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568401315926	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401317079	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401320316	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401320692	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401320968	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401321233	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401321628	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401341669	Marionette	INFO	Stopped listening on port 39187
+[Parent 3874, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1568401686336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6T2k8J"
+
+(firefox:4068): Gtk-WARNING **: 21:08:07.928: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4068): Gtk-WARNING **: 21:08:07.929: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568401691416	Marionette	INFO	Listening on port 41681
+1568401691488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568401691672	Marionette	DEBUG	[2147483649] Frame script loaded
+1568401691691	Marionette	DEBUG	[2147483649] Frame script registered
+1568401694427	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568401694982	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568401696875	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568401696892	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+
+(/usr/lib/firefox/firefox:4114): dconf-WARNING **: 21:08:18.058: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568401698343	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568401699026	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401699199	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568401699430	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401701426	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401704517	Marionette	INFO	Stopped listening on port 41681
+1568401813014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexNZDwi"
+
+(firefox:4238): Gtk-WARNING **: 21:10:14.532: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4238): Gtk-WARNING **: 21:10:14.537: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568401817891	Marionette	INFO	Listening on port 43587
+1568401817960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568401818181	Marionette	DEBUG	[2147483649] Frame script loaded
+1568401818198	Marionette	DEBUG	[2147483649] Frame script registered
+1568401820924	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568401821195	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568401823373	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568401823386	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568401824875	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568401825656	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401825866	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568401826140	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401828020	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401831278	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401831561	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401831849	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401832107	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401832436	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401832465	Marionette	INFO	Stopped listening on port 43587
+1568401939581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezD6SO3"
+
+(firefox:4418): Gtk-WARNING **: 21:12:21.255: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4418): Gtk-WARNING **: 21:12:21.256: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568401944804	Marionette	INFO	Listening on port 39273
+1568401944836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568401945041	Marionette	DEBUG	[2147483649] Frame script loaded
+1568401945058	Marionette	DEBUG	[2147483649] Frame script registered
+1568401948157	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568401948552	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568401951690	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568401951720	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+1568401953081	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568401953488	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/bene/accounts
+1568401953700	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568401954495	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401955567	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401958695	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401958976	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401959268	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401959523	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401959839	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568401959871	Marionette	INFO	Stopped listening on port 39273
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1568402066167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMK4EBD"
+
+(firefox:4605): Gtk-WARNING **: 21:14:27.847: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4605): Gtk-WARNING **: 21:14:27.847: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568402071219	Marionette	INFO	Listening on port 33855
+1568402071349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568402071572	Marionette	DEBUG	[2147483649] Frame script loaded
+1568402071580	Marionette	DEBUG	[2147483649] Frame script registered
+1568402073678	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568402074241	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568402076451	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568402076471	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+
+(/usr/lib/firefox/firefox:4659): dconf-WARNING **: 21:14:37.590: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568402077868	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568402078611	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402078739	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568402078995	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402081083	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402084510	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402084761	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402085061	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402085317	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402085654	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402085784	Marionette	INFO	Stopped listening on port 33855
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1568402120070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuj80oU"
+
+(firefox:4780): Gtk-WARNING **: 21:15:21.775: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4780): Gtk-WARNING **: 21:15:21.775: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1568402125482	Marionette	INFO	Listening on port 42909
+1568402125525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568402125744	Marionette	DEBUG	[2147483649] Frame script loaded
+1568402125750	Marionette	DEBUG	[2147483649] Frame script registered
+1568402128820	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1568402129077	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1568402130409	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://lsi-szkol.slaskie.pl/
+1568402130421	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://lsi-szkol.slaskie.pl/
+
+(/usr/lib/firefox/firefox:4831): dconf-WARNING **: 21:15:31.644: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568402131925	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/
+1568402132792	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402132927	Marionette	DEBUG	[2147483649] Received DOM event popstate for https://lsi-szkol.slaskie.pl/#/account/new
+1568402133957	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402135141	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402138499	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402138753	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402139035	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402139290	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402139580	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1568402149719	Marionette	INFO	Stopped listening on port 42909
