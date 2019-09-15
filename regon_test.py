@@ -34,7 +34,7 @@ class RegonTest(unittest.TestCase):
         self.driver.implicitly_wait(20)
     def tearDown(self):
         self.driver.quit()
-    def test_register_wrong_email_(self):
+    def test_insert_double_regon_(self):
         driver = self.driver
 # """
 #         zaloguj_btns = driver.find_elements_by_class_name('navigation__button')
